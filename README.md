@@ -4,7 +4,7 @@ This repo is simply an archive of [seebye/ueberzug](https://github.com/seebye/ue
 I have reverted to the last commit before [seebye](https://github.com/seebye) removed the source code.
 
 I will ***not*** be maintaining this code.
-If you wish to continue maintain ueberzug, either fork this or the original repository.
+If you wish to continue maintaining ueberzug, either fork this or the original repository.
 
 ## Überzug
 
