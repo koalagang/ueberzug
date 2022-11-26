@@ -1,6 +1,6 @@
 # Disclaimer
 Ueberzug was deprecated Nov 19, 2022.
-This repo is simply an archive of the [seebye/ueberzug](https://github.com/seebye/ueberzug).
+This repo is simply an archive of [seebye/ueberzug](https://github.com/seebye/ueberzug).
 I have reverted to the last commit before [seebye](https://github.com/seebye) removed the source code.
 
 I will ***not*** be maintaining this code.
